@@ -1,0 +1,30 @@
+@media (min-width: 426px) {
+    .main_content{
+        display: flex;
+
+            background-color: white;
+            margin: 0 auto 0 auto;
+            width: 50vw;
+            height: 50vh;
+            margin: 5% auto 20% auto;
+    }
+
+    .parfum_image_mobile{
+        display: none;
+    }
+
+    .parfum_image_desktop{
+        display: block;
+        max-width: 60%;
+        border-radius: 10px 0 0 10px;
+        background-size: cover;
+    }
+
+    p,h1 {
+        margin-bottom: 2rem;
+    }
+
+    .before_price{
+        margin-top: 1.09rem;
+    }
+}
