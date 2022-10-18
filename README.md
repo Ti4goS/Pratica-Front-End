@@ -13,9 +13,9 @@ Esse repositório é dedicado para compartilhar publicamente todos os códigos d
 ## Overview
 
 Projetos mais simples que não exigem grande elabaração e planejamento seram publicados nesse repositório, como:
-    * Reforço de Principios
-    * Aprendizado de novas linguagens
-    * Projetos de Internet
+* Reforço de Principios
+* Aprendizado de novas linguagens
+* Projetos de Internet
 
 
 ## Tecnologias Utilizadas
